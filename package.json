@@ -1,0 +1,24 @@
+{
+  "name": "custom_js_services",
+  "version": "1.0.0",
+  "description": "A mini project for custom JS services used in Angular and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dblaze47/custom_js_services.git"
+  },
+  "keywords": [
+    "custom javascript service",
+    "custom angular service",
+    "custom react service"
+  ],
+  "author": "Manosh Talukder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dblaze47/custom_js_services/issues"
+  },
+  "homepage": "https://github.com/Dblaze47/custom_js_services#readme"
+}
